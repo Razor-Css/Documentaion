@@ -7,4 +7,4 @@ repo_url: 'https://github.com/Razor-Css/Documentaion/'
 nav:
     - Home: index.md
 theme:
-  name: 'windmill-dark'
+  name: 'material'
