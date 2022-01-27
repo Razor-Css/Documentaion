@@ -1,10 +1,12 @@
-site_name: Test docs
-site_description: 'A docs test'
-site_author: 'Michael Hausenblas'
+site_name: JRP.best docs
+site_description: 'JRP.best docs'
+site_author: 'JRP.best'
 docs_dir: docs/
-repo_name: 'mhausenblas/mkdocs-template'
-repo_url: 'https://github.com/mhausenblas/mkdocs-template'
+repo_name: 'Jrp-best-hosting/docs'
+repo_url: 'https://github.com/Jrp-best-hosting/docs'
 nav:
     - Home: index.md
+    - Deploying: deploying.md
+    - Api: api.md
 theme:
   name: 'material'
