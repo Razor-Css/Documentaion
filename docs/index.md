@@ -1,40 +1,5 @@
-## Sample
+## Introduction
 
-One more, finally. Or not? :)
+Welcome to the JRP.best docs!
 
-Now:
-
-```
-$ some 
-```
-
-Look what she said:
-
-> This is it!
-
-### Subtitle
-
-And now this:
-
-- One
-- Two
-- Three
-
-
-#### As well
-
-#### As this
-
-### Another
-
-[a link](https://aws.com)
-
-More?
-
-
-Can we now have `the build`?
-
-NOW!
-
-
-Not gonna work, is it?
+Here you will lean how to deploy to JRP.best and how to use our services.
