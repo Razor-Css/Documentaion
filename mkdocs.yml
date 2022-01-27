@@ -1,12 +1,10 @@
-site_name: JRP.best docs
-site_description: 'JRP.best docs'
-site_author: 'JRP.best'
+site_name: Razor CSS docs
+site_description: 'Razor CSS docs'
+site_author: 'Razor CSS'
 docs_dir: docs/
-repo_name: 'Jrp-best-hosting/docs'
-repo_url: 'https://github.com/Jrp-best-hosting/docs'
+repo_name: 'Razor-Css/Documentaion'
+repo_url: 'https://github.com/Razor-Css/Documentaion/'
 nav:
     - Home: index.md
-    - Deploying: deploying.md
-    - Api: api.md
 theme:
   name: 'material'
