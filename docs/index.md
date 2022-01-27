@@ -1,5 +1,5 @@
 ## Introduction
 
-Welcome to the JRP.best docs!
+Welcome to the Razor-CSS docs!
 
-Here you will lean how to deploy to JRP.best and how to use our services.
+Here you will lean how to add/use the Razor-CSS icon libary!
